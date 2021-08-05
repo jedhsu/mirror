@@ -1,6 +1,6 @@
 ## mirror
 
-Homotopy theory - and perhaps category theory as a whole - centers around the perspective that structures and spaces, rather than set-theoretic points, should be the axiomatic objects of study. (Quote Corfield).
+Homotopy theory - and perhaps more generally, category theory altogether - centers around the perspective that spaces with structure, rather than set-theoretic points, should be the most fundamental objects of study. (Quote Corfield).
 
 This post explores a non-Euclidean "mirror geometry" where the Euclidean line is the atomic element of a "point". In the mirror geometry, two points (Euclidean lines) form a line at their Euclidean intersection of a point.
 

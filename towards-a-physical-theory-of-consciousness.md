@@ -3,7 +3,9 @@
 (under development)
 
 The intuition on this conjecture is that consciousness is a physical result induced
-by the principle of general relativity. The state of a communication network can be modeled by a
+by the principle of general relativity.
+
+The state of a communication network can be modeled by a
 Hilbert space. The velocity of certain neural communication paths compute to faster than the speed of light
 relative to an inertial frame of reference of a distance metric. The path realizations of neural communication
 are a function of a collection of its past light cones.
